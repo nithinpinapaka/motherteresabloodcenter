@@ -1,0 +1,503 @@
+/* All Pages Navgation Stylling */
+
+.nav-link {
+    font-size: 18px;
+    margin: 0px 4px;
+    font-weight: 500;
+}
+
+.navbar-nav {
+    margin-right: 40px;
+}
+
+.navbar-brand-logo {
+    width: 220px;
+    height: 58px;
+    margin-left: 60px;
+}
+
+/* About Us & Home Cards Section */
+
+#service-cards {
+    margin: 4% 0% 1% 0%;
+}
+
+.card-header {
+    color: rgb(9, 198, 171);
+    background-color: white;
+}
+
+.card-image {
+    height: 250px;
+}
+
+.card-link:link {
+    text-decoration: none;
+    color: rgb(9, 198, 171);
+}
+
+.card-link:visited {
+    text-decoration: none;
+    color: rgb(9, 198, 171);
+}
+
+.card-link:hover {
+    text-decoration: none;
+    color: rgb(9, 198, 171);
+}
+
+.card-link:active {
+    text-decoration: none;
+    color: rgb(9, 198, 171);
+}
+
+/* Home Page Styling */
+
+/* Home Banner Section */
+
+.home-title {
+    color: white;
+    font-weight: lighter;
+    font-size: 60px;
+    margin: 35% 14%;
+    font-weight: 400;
+}
+
+#home-banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(images/home_banner.jpg);
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+}
+
+/* Home Welcome Section */
+
+.home-content {
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: bold;
+    color: grey;
+    margin: 50px 20px;
+    text-align: justify;
+}
+
+/* Home Banner 2 Section */
+
+#home-banner2 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(images/home-banner2.jpg);
+    background-repeat: no-repeat;
+    height: 650px;
+    width: 100%;
+    background-attachment: fixed;
+}
+
+.home-banner2-title {
+    padding: 26% 0%;
+    font-size: 60px;
+    text-align: center;
+    color: rgba(110, 255, 183, 0.794);
+    margin: 2%;
+}
+
+/* Home Social Media Section */
+
+#home-social-media {
+    margin: 5% 0%;
+}
+
+/* Home Form Section */
+
+.form-styling {
+    background-color: white;
+    margin: 20% 10%;
+    height: 480px;
+    width: 400px;
+    padding: 0% 2%;
+    border-radius: 2px;
+    border-top: 12px solid rgb(9, 198, 171);
+}
+
+.form-heading {
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    font-weight: 350;
+}
+
+.form-social-media {
+    display: inline;
+    margin: 4% 2%;
+    text-align: center;
+    color: rgb(9, 198, 171);
+    font-weight: 600;
+}
+
+.submit-btn {
+    background-color: rgb(9, 198, 171);
+    color: white;
+    font-weight: bold;
+}
+
+.form-labels {
+    font-weight: 500;
+}
+
+.form-control:focus {
+    border-color: rgb(9, 198, 171);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(9, 198, 171, 0.6);
+}
+
+.carousel-slide {
+    margin-top: 18%;
+}
+
+.carousel-body-content {
+    text-align: justify;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.carousel-sub-content {
+    font-weight: 400;
+    color: rgb(9, 198, 171);
+    text-align: center;
+}
+
+/* About Us Page Styling */
+
+/* About Us Banner Section */
+
+#aboutus-banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(images/aboutus-banner.jpg);
+    background-repeat: no-repeat;
+    height: 660px;
+    width: 100%;
+}
+
+.aboutus-title {
+    color: white;
+    font-weight: lighter;
+    font-size: 60px;
+    margin: 20% 20%;
+}
+
+/* About Us Welcome Section */
+
+#aboutus-welcome {
+    margin: 40px 20px;
+}
+
+.aboutus-content {
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: bold;
+    color: grey;
+    margin: 50px 20px;
+    text-align: justify;
+}
+
+/* About Us Servicelist Section */
+
+.aboutus-serviceslist {
+    margin: 40px 20px;
+}
+
+.aboutus-serviceslist1 {
+    margin: 20px 20px;
+    padding: 0% 10%;
+}
+
+.aboutus-servicelist-list-style {
+    list-style-type: square;
+}
+
+.our-infrastructure-matter {
+    text-align: center;
+}
+
+/* All Pages Banner */
+
+#page-banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(images/pages-banner.jpg);
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
+}
+
+#contact-banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(images/page-banner.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+}
+
+#gallery-banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(images/pages-banner.jpg);
+    background-repeat: no-repeat;
+    height: 550px;
+    width: 100%;
+    background-size: cover;
+}
+
+.gallery-title {
+    color: white;
+    padding: 20%;
+    text-align: center;
+}
+
+/* All Pages Footer Section */
+
+.aboutus-footer {
+    text-align: justify;
+}
+
+.aboutus-footer-subheading {
+    color: rgb(9, 198, 171);
+}
+
+.social-media-icons {
+    margin: 1% 4%;
+}
+
+.social-media-icons:hover {
+    color: rgb(9, 198, 171);
+}
+
+.heading-center {
+    margin-left: 12%;
+    text-align: center;
+}
+
+.footer-link {
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+
+.footer-link li {
+    margin: 3% 0%;
+}
+
+/* Quick Links */
+
+.footer-link1:link {
+    text-decoration: none;
+    color: black;
+}
+
+.footer-link1:visited {
+    text-decoration: none;
+    color: rgb(3, 3, 3);
+}
+
+.footer-link1:hover {
+    text-decoration: none;
+    color: rgb(9, 198, 171);
+}
+
+.footer-link1:active {
+    text-decoration: none;
+    color: rgb(9, 198, 171);
+}
+
+.footer-getintouch-p {
+    display: inline;
+    margin: 4%;
+}
+
+/* All Pages Horizontal Line Styling */
+
+.footer-hr {
+    width: 90%;
+    border-top: 1px solid #8c8b8b;
+}
+
+.middle-content-separation-hr {
+    width: 90%;
+    border-top: 1px solid #8c8b8b;
+}
+
+/* All Pages Scrolling Top Button Option Styling */
+
+html {
+    scroll-behavior: smooth;
+}
+
+#back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+}
+
+/* Starting Media Querie */
+
+@media screen and (max-width:768px) {
+    /* All Pages Navigation Media */
+    .navbar-nav {
+        text-align: center;
+        font-weight: bold;
+        margin-right: 5px;
+    }
+    .nav-item {
+        margin-right: 6px;
+    }
+    .navbar-brand-logo {
+        width: 190px;
+        height: 65px;
+        margin-left: 0px;
+    }
+    /* About Us Page Media  */
+    #aboutus-banner {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(images/aboutus-banner2.jpg);
+        background-repeat: no-repeat;
+        height: 400px;
+        width: 100%;
+    }
+    .aboutus-title {
+        color: white;
+        font-weight: lighter;
+        font-size: 50px;
+        margin: 40% 10%;
+    }
+    #aboutus-welcome {
+        margin: 30px 5px;
+        ;
+    }
+    .aboutus-content {
+        font-size: 18px;
+        ;
+        line-height: 1.5;
+        font-weight: bold;
+        color: grey;
+        margin: 10px 0px;
+        text-align: justify;
+    }
+    .aboutus-serviceslist {
+        margin: 10px 0px;
+        text-align: justify;
+    }
+    .aboutus-serviceslist1 {
+        margin: 10px 0px;
+        padding: 0% 4%;
+    }
+    .our-infrastructure-matter {
+        text-align: justify;
+    }
+    /* All Footer Section Media */
+    .heading-center {
+        text-align: left;
+        margin: 3% 0% 0% 0%;
+    }
+    .footer-link {
+        list-style-type: none;
+        text-decoration: none;
+        color: black;
+        text-align: left;
+        margin: 1%;
+        padding: 0%;
+    }
+    .footer-link li {
+        margin: 0% 0%;
+    }
+    /* Home Page Media */
+    #home-banner {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(images/home_banner-2size.jpg);
+        background-repeat: no-repeat;
+        height: 1000px;
+        width: 100%;
+    }
+    .home-title {
+        color: white;
+        font-weight: 500;
+        font-size: 35px;
+        margin: 60% 10% 10% 10%;
+    }
+    .home-content {
+        font-size: 18px;
+        line-height: 1.5;
+        font-weight: bold;
+        color: grey;
+        margin: 20px 0px;
+        text-align: justify;
+    }
+    /* Form Styling Media */
+    .form-styling {
+        background-color: white;
+        margin: 0% 4%;
+        height: 600px;
+        width: 300px;
+        padding: 0% 2%;
+        border-radius: 2px;
+        border-top: 12px solid rgb(9, 198, 171);
+    }
+    .form-heading {
+        text-align: center;
+        margin-top: 3%;
+        margin-bottom: 3%;
+        font-weight: 350;
+    }
+    /* Home Banner 2 Section */
+    #home-banner2 {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(images/home-banner2.jpg);
+        background-repeat: no-repeat;
+        height: 650px;
+        width: 100%;
+        background-attachment: fixed;
+    }
+    .home-banner2-title {
+        padding: 60% 0%;
+        font-size: 49px;
+        text-align: center;
+        color: rgba(110, 255, 183, 0.794);
+        margin: 20% 0%;
+    }
+    /* Home Map Hidden */
+    .map-iframe {
+        display: none;
+    }
+    /* Home Social Media */
+    .fb-page {
+        width: 100%;
+    }
+    .twitter-timeline {
+        width: 100%;
+    }
+    /* Form Social Media  */
+    .form-social-media {
+        display: inline;
+        margin: 4% 2%;
+        padding: 0% 19%;
+        color: rgb(9, 198, 171);
+        font-weight: 600;
+    }
+    /* Page Banner */
+    #page-banner {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(images/pages-banner.jpg);
+        background-repeat: no-repeat;
+        height: 1000px;
+        width: 100%;
+    }
+    /* Contact Us Banner */
+    #contact-banner {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(images/page-banner-2size.jpg);
+        background-repeat: no-repeat;
+        height: 400px;
+        width: 100%;
+        background-size: cover;
+    }
+    #gallery-banner {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(images/pages-banner.jpg);
+        background-repeat: no-repeat;
+        height: 400px;
+        width: 100%;
+        background-size: cover;
+    }
+    .gallery-title {
+        color: white;
+        padding: 50% 2%;
+        text-align: center;
+    }
+}
